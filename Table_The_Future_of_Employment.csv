@@ -1,4 +1,4 @@
-Rank,Probability,Label,SOC code,Occupation
+Rank,Probability,Label,SOC_Code,Occupation
 1.,0.0028,,29-1125,Recreational Therapists
 2.,0.003,,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
 3.,0.003,,11-9161,Emergency Management Directors
@@ -341,7 +341,7 @@ Rank,Probability,Label,SOC code,Occupation
 339.,0.61,,51-8031,Water and Wastewater Treatment Plant and System Operators
 340.,0.61,,19-4099,"Life, Physical, and Social Science Technicians, All Other"
 341.,0.61,,51-3093,Food Cooking Machine Operators and Tenders
-342.,0.61,,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders
+342.,0.61,,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
 343.,0.62,1,53-5022,Motorboat Operators
 344.,0.62,,47-2082,Tapers
 345.,0.62,,47-2151,Pipelayers
@@ -372,7 +372,7 @@ Rank,Probability,Label,SOC code,Occupation
 370.,0.67,,51-4071,Foundry Mold and Coremakers
 371.,0.67,,19-2021,Atmospheric and Space Scientists
 372.,0.67,1,53-3021,"Bus Drivers, Transit and Intercity"
-373.,0.67,,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers
+373.,0.67,,33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
 374.,0.67,,49-9041,Industrial Machinery Mechanics
 375.,0.68,,43-5052,Postal Service Mail Carriers
 376.,0.68,,47-5071,"Roustabouts, Oil and Gas"
@@ -429,7 +429,7 @@ Rank,Probability,Label,SOC code,Occupation
 427.,0.78,,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders Metal and Plastic"
 428.,0.78,,43-9011,Computer Operators
 429.,0.78,,51-8092,Gas Plant Operators
-430.,0.79,,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators
+430.,0.79,,43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators"
 431.,0.79,,53-3032,Heavy and Tractor-Trailer Truck Drivers
 432.,0.79,,39-5093,Shampooers
 433.,0.79,,47-2081,Drywall and Ceiling Tile Installers
@@ -444,7 +444,7 @@ Rank,Probability,Label,SOC code,Occupation
 442.,0.81,,43-9022,Word Processors and Typists
 443.,0.81,1,17-3012,Electrical and Electronics Drafters
 444.,0.81,,17-3024,Electro-Mechanical Technicians
-445.,0.81,,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders
+445.,0.81,,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
 446.,0.81,,11-9141,"Property, Real Estate, and Community Association Managers"
 447.,0.81,,43-6013,Medical Secretaries
 448.,0.81,,51-6021,"Pressers, Textile, Garment, and Related Materials"
@@ -483,7 +483,7 @@ Rank,Probability,Label,SOC code,Occupation
 481.,0.84,,43-9081,Proofreaders and Copy Markers
 482.,0.84,,33-3041,Parking Enforcement Workers
 483.,0.85,,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
-484.,0.85,,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products
+484.,0.85,,41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
 485.,0.85,1,43-5041,"Meter Readers, Utilities"
 486.,0.85,,51-8013,Power Plant Operators
 487.,0.85,,51-8091,Chemical Plant and System Operators
@@ -517,7 +517,7 @@ Rank,Probability,Label,SOC code,Occupation
 515.,0.88,,17-1021,Cartographers and Photogrammetrists
 516.,0.88,,51-4051,Metal-Refining Furnace Operators and Tenders
 517.,0.88,,51-9012,"Separating,  Filtering,  Clarifying,  Precipitating,  and Still Machine Setters, Operators, and Tenders"
-518.,0.88,,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers
+518.,0.88,,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
 519.,0.88,,47-2053,Terrazzo Workers and Finishers
 520.,0.88,,51-4194,"Tool Grinders, Filers, and Sharpeners"
 521.,0.88,,49-3043,Rail Car Repairers
@@ -547,13 +547,13 @@ Rank,Probability,Label,SOC code,Occupation
 545.,0.91,,49-9063,Musical Instrument Repairers and Tuners
 546.,0.91,,39-7011,Tour Guides and Escorts
 547.,0.91,,49-9011,Mechanical Door Repairers
-548.,0.91,,51-3091,"Food  and  Tobacco  Roasting,  Baking,  and  Drying  Machine  Operators and Tenders
+548.,0.91,,51-3091,"Food  and  Tobacco  Roasting,  Baking,  and  Drying  Machine  Operators and Tenders"
 549.,0.91,,53-7071,Gas Compressor and Gas Pumping Station Operators
 550.,0.91,,29-2071,Medical Records and Health Information Technicians
-551.,0.91,,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders
+551.,0.91,,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
 552.,0.91,,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
 553.,0.91,,53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
-554.,0.91,,49-2093,"Electrical   and   Electronics   Installers   and   Repairers,   Transportation Equipment
+554.,0.91,,49-2093,"Electrical and Electronics Installers and Repairers,   Transportation Equipment"
 555.,0.91,,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers
 556.,0.91,,51-4191,"Heat  Treating  Equipment  Setters,  Operators,  and  Tenders,  Metal  and Plastic"
 557.,0.91,,19-4041,Geological and Petroleum Technicians
@@ -605,7 +605,7 @@ Rank,Probability,Label,SOC code,Occupation
 603.,0.94,,47-3014,"Helpers–Painters, Paperhangers, Plasterers, and Stucco Masons"
 604.,0.94,,43-4081,"Hotel, Motel, and Resort Desk Clerks"
 605.,0.94,,51-9197,Tire Builders
-606.,0.94,,41-9091,"Door-to-Door  Sales  Workers,  News  and  Street  Vendors, and  Related Workers
+606.,0.94,,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
 607.,0.94,,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers
 608.,0.94,,45-2011,Agricultural Inspectors
 609.,0.94,1,23-2011,Paralegals and Legal Assistants
@@ -619,7 +619,7 @@ Rank,Probability,Label,SOC code,Occupation
 617.,0.95,,47-2073,Operating Engineers and Other Construction Equipment Operators
 618.,0.95,,51-5113,Print Binding and Finishing Workers
 619.,0.95,,45-2021,Animal Breeders
-620.,0.95,,51-4072,"Molding,  Coremaking,  and  Casting  Machine  Setters,  Operators,  and Tenders, Metal and Plastic"
+620.,0.95,,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators,  and Tenders, Metal and Plastic"
 621.,0.95,1,51-2022,Electrical and Electronic Equipment Assemblers
 622.,0.95,,51-9191,Adhesive Bonding Machine Operators and Tenders
 623.,0.95,,37-3011,Landscaping and Groundskeeping Workers
@@ -633,7 +633,7 @@ Rank,Probability,Label,SOC code,Occupation
 631.,0.96,1,43-2011,"Switchboard Operators, Including Answering Service"
 632.,0.96,,35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
 633.,0.96,,47-5051,"Rock Splitters, Quarry"
-634.,0.96,,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive
+634.,0.96,,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
 635.,0.96,,17-3031,Surveying and Mapping Technicians
 636.,0.96,,51-7031,"Model Makers, Wood"
 637.,0.96,,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters,  Operators, and Tenders"
@@ -651,7 +651,7 @@ Rank,Probability,Label,SOC code,Occupation
 649.,0.97,1,13-1074,Farm Labor Contractors
 650.,0.97,,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
 651.,0.97,,51-9081,Dental Laboratory Technicians
-652.,0.97,,51-9021,"Crushing,  Grinding,  and  Polishing  Machine  Setters,  Operators,  and Tenders
+652.,0.97,,51-9021,"Crushing, Grinding, and Polishing Machine Setters,  Operators, and Tenders"
 653.,0.97,,51-9022,"Grinding and Polishing Workers, Hand"
 654.,0.97,,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
 655.,0.97,,45-4023,Log Graders and Scalers
